@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles
-	name = louisepicot louisepicot@gmail.com
+	email = louisepicot@gmail.com
+	name = louisepicot
